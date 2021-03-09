@@ -1,0 +1,19 @@
+vich_uploader:
+    db_driver: orm
+#    storage: gaufrette
+#    mappings:
+#        images:
+#            inject_on_load: true
+#            uri_prefix: "%env(resolve:VICH_UPLOADER_IMAGE_PREFIX)%"
+#            upload_destination: image_fs
+#            delete_on_update: false
+#            delete_on_remove: false
+#            namer: Vich\UploaderBundle\Naming\SmartUniqueNamer
+#        tracks:
+#            inject_on_load: true
+#            uri_prefix: "%env(resolve:VICH_UPLOADER_TRACK_PREFIX)%"
+#            upload_destination: track_fs
+#            directory_namer: directory_namer.tracks
+#            delete_on_update: false
+#            delete_on_remove: false
+#            namer: namer.tracks #Vich\UploaderBundle\Naming\SmartUniqueNamer

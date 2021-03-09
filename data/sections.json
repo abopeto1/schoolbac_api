@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cycle d'Orientation",
+    "abr": "C.O"
+  },
+  {
+    "name": "Scientifique",
+    "abr": "Sc"
+  },
+  {
+    "name": "Commerciale",
+    "abr": "Comm"
+  },
+  {
+    "name": "Latin-Philo",
+    "abr": "Latin-Philo"
+  },
+  {
+    "name": "Technique",
+    "abr": "Tech."
+  }
+]

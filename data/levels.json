@@ -1,0 +1,26 @@
+[
+  {
+    "name": "1ere secondaire",
+    "section": "Secondaire",
+    "option": "Secondaire",
+    "abr": "Ier C.O"
+  },
+  {
+    "name": "2eme secondaire",
+    "section": "Secondaire",
+    "option": "Secondaire",
+    "abr": "IIe C.O"
+  },
+  {
+    "name": "3eme Scientifique",
+    "section": "Scientifique",
+    "option": "Scientifique",
+    "abr": "IIIe Sc."
+  },
+  {
+    "name": "3eme Commerciale",
+    "section": "Commerciale",
+    "option": "Commerciale",
+    "abr": "IIIe Comm."
+  }
+]

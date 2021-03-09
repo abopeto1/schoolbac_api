@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Algèbre",
+    "abr": "Alg"
+  },
+  {
+    "name": "Arithmétique",
+    "abr": "Arith"
+  },
+  {
+    "name": "Géométrie",
+    "abr": "Geom"
+  },
+  {
+    "name": "Statistique",
+    "abr": "Stat"
+  },
+  {
+    "name": "Anatomie",
+    "abr": "Anat"
+  },
+  {
+    "name": "Botanique",
+    "abr": "Bot"
+  },
+  {
+    "name": "Zoologie",
+    "abr": "Zoo"
+  },
+  {
+    "name": "Science Physique",
+    "abr": "S.P"
+  },
+  {
+    "name": "Technologie",
+    "abr": "Tech"
+  },
+  {
+    "name": "Coding",
+    "abr": "Coding"
+  },
+  {
+    "name": "ICDL (Informatique)",
+    "abr": "Info"
+  },
+  {
+    "name": "Anglais",
+    "abr": "Ang"
+  },
+  {
+    "name": "Français",
+    "abr": "Fr"
+  },
+  {
+    "name": "Education à la vie",
+    "abr": "E.V"
+  },
+  {
+    "name": "ECM",
+    "abr": "E.V"
+  },
+  {
+    "name": "Géographie",
+    "abr": "Geo"
+  },
+  {
+    "name": "Histoire",
+    "abr": "Hist"
+  },
+  {
+    "name": "Dessin",
+    "abr": "Dess"
+  },
+  {
+    "name": "Musique",
+    "abr": "Mus"
+  }
+]

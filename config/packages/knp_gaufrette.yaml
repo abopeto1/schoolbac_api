@@ -1,0 +1,30 @@
+knp_gaufrette:
+#  adapters:
+#    image_adapter:
+#      local:
+#        directory: "%kernel.project_dir%/public/images"
+#      # aws_s3:
+#      #  service_id: ct_file_store.s3
+#      #  bucket_name: '%env(AWS_BUCKET_NAME)%'
+#      #  detect_content_type: true
+#      #  options:
+#      #    create: true
+#      #    directory: images
+#
+#    track_adapter:
+#      local:
+#        directory: "%kernel.project_dir%/public/tracks"
+#      # aws_s3:
+#      #  service_id: ct_file_store.s3
+#      #  bucket_name: '%env(AWS_BUCKET_TRACKS_NAME)%'
+#      #  detect_content_type: true
+#      #  options:
+#      #    create: true
+#      #    directory: tracks
+#  filesystems:
+#    image_fs:
+#      adapter: image_adapter
+#    track_fs:
+#      adapter: track_adapter
+#
+#  stream_wrapper: ~
