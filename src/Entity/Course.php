@@ -14,7 +14,16 @@ use ApiPlatform\Core\Annotation\ApiFilter;
 use ApiPlatform\Core\Bridge\Doctrine\Orm\Filter\SearchFilter;
 
 /**
- * @ApiResource()
+ * @ApiResource(
+ *     attributes={
+ *          "pagination_enabled"=true,
+ *          "pagination_items_per_page"=10
+ *     },
+ *     collectionOperations={
+ *          "get"={"method"="GET"},
+ *      },
+ *     itemOperations={"get"}
+ * )
  */
 class Course
 {
@@ -25,9 +34,17 @@ class Course
 
     private $name;
 
-    public function getId(): ?int
+    public function getId()
     {
         return $this->id;
+    }
+
+    /**
+     * @param mixed $id
+     */
+    public function setId($id): void
+    {
+        $this->id = $id;
     }
 
     public function getName(): ?string
